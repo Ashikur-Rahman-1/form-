@@ -1,0 +1,118 @@
+#first-div {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    margin: 10px;
+}
+#first-div #first-h1 {
+    color: white;
+    text-align: center;
+}
+
+
+#second-div {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    margin: 10px;
+}
+#second-div #second-h1 {
+    color: aquamarine;
+    text-align: center;
+}
+
+
+#third-div {
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+    margin: 10px;
+}
+#third-div #third_h1 {
+    color: aqua;
+    text-align: center;
+}
+
+
+#fourth-div {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    margin: 10px;
+}
+#fourth-div #fourth-h1 {
+    color: red;
+    text-align: center;
+}
+
+
+#fifth-div {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(58, 10, 249);
+    margin: 10px;
+}
+#fifth-div #fifth-h1 {
+    color: rgb(234, 250, 15);
+    text-align: center;
+}
+
+
+#sixth-div {
+    width: 200px;
+    height: 100px;
+    background-color: blanchedalmond;
+    margin: 10px;
+}
+#sixth-div #sixth-h1 {
+    color: black;
+    text-align: center;
+}
+
+
+#seventh-div {
+    width: 200px;
+    height: 100px;
+    background-color: blueviolet;
+    margin: 10px;
+}
+#seventh-div #seventh-h1 {
+    color: aliceblue;
+    text-align: center;
+}
+
+
+#eighth-div {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(246, 246, 3);
+    margin: 10px;
+}
+#eighth-div #eighth-h1 {
+    color: red;
+    text-align: center;
+}
+
+
+#ninth-div {
+    width: 200px;
+    height: 100px;
+    background-color: burlywood;
+    margin: 10px;
+}
+#ninth-div #ninth-h1 {
+    color: yellowgreen;
+    text-align: center;
+}
+
+
+#last-div {
+    width: 200px;
+    height: 100px;
+    background-color: mediumseagreen;
+    margin: 10px;
+}
+#last-div #last-h1 {
+    color: red;
+    text-align: center;
+}
